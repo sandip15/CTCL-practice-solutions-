@@ -1,2 +1,2 @@
-# CTCL-practice-solutions-
-My own practice solutions for the cracking the coding interview (6th edition)
+# CTCL-practice-solutions
+My own practice solutions for the problems from cracking the coding interview (6th edition) book

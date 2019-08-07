@@ -21,7 +21,7 @@ isUnique('saandip')
 
 
 /* solution without using the additional data structure 
-but time complexity is 0(n^2) */
+but it has bad time complexity which is 0(n^2) */
 
 var isUnique = function(s){
   for (var i=0 ; i<s.length ; i++){

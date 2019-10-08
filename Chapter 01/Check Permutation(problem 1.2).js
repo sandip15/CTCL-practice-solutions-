@@ -3,7 +3,7 @@
 //**************solution *************************
 
 /*for one string to become the permutation of the other their length must be the same otherwise they cant be the
-permutation to one another and return false*/
+permutation to one another and return false， so we use this logic first to determine whether it is permutation or not*/
 
 var isPermutation = function (str1,str2){
   if (str1.length !== str2.length){

@@ -1,6 +1,6 @@
 /* problem 1.1
-implement an algorithm to determine if a string has all the unique characters. what if you can't use
-any additional data structure. */
+implement an algorithm to determine if a string has all the unique characters.
+second challenge is what if you can't use any additional data structure. */
 
 //solution using additional data structure to improve time complexity to 0(n)
 

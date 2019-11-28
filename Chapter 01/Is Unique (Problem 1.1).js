@@ -19,7 +19,7 @@ var isUnique = function (s){
 
 isUnique('saandip')
 
-
+//additional problem : can you implement that without using any extra space?
 /* solution without using the additional data structure 
 but it has bad time complexity which is 0(n^2) */
 

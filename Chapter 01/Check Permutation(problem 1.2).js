@@ -1,6 +1,6 @@
 // given two strings, write a method to decide if one is the permutation of the other.
 
-//**************solution *************************
+//**************solution of the problem*************************
 
 /*for one string to become the permutation of the other their length must be the same otherwise they cant be the
 permutation to one another and return false， so we use this logic first to determine whether it is permutation or not*/

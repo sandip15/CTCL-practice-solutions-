@@ -1,4 +1,4 @@
-// Question: given two strings, write a method to decide if one is the permutation of the other.
+// Question: given two strings, need to write a method to decide if one is the permutation of the other.
 
 //**************solution of the problem*************************
 

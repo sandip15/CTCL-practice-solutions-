@@ -6,7 +6,7 @@
 permutation to one another and return false， so we use this logic first to determine whether it is permutation or not*/
 
 var isPermutation = function (str1,str2){
-  if (str1.length !== str2.length){
+  if (str1.length !== str2.length){          // first testing logic
     return false;
   }
   //for one string to become the permutation of the other string they should be same after the sorting is done on those.
